@@ -1,0 +1,12 @@
+# Dados brutos e banco: grandes e com dados pessoais, nao publicar
+*.csv
+*.zip
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos temporarios do Excel
+~$*.xlsx
